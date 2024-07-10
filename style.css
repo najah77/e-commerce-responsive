@@ -1,0 +1,133 @@
+.panda-bg-info {
+    background-color: #FEEAE9;
+}
+
+.btn-buy-now {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    font-weight: 600;
+    text-transform: uppercase;
+    margin-top: 16px;
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 6px;
+    padding: 14px 20px;
+    transition-duration: 0.4s;
+}
+.btn-buy-noww{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    font-weight: 600;
+    text-transform: uppercase;
+    margin-top: 16px;
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 6px;
+    padding: 14px 20px;
+}
+
+.btn-buy-noww{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    font-weight: 600;
+    text-transform: uppercase;
+    margin-top: 16px;
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 6px;
+    padding: 14px 20px;
+}
+
+.btn-buy-now:hover{
+    scale: 1.3;
+    background-image: linear-gradient(152.07deg, #ff0766 1.47%, #fa8bb7 97.17%);
+
+}
+
+.price {
+    color: #FF136F;
+    margin-top: 20px;
+}
+
+.watch {
+    background-image: linear-gradient(152.07deg, #FF9C35 1.47%, #FFD019 97.17%);
+    transition-duration: 0.4s;
+}
+
+.watch:hover{
+    background-image: linear-gradient(180deg, #FFD019 -0.01%, #FF9C35 99.99%);
+    scale: 1.1;
+}
+
+.bag {
+    background-image: linear-gradient(180deg, #FF589B -0.01%, #FF136F 99.99%);
+    transition-duration: 0.4s;
+}
+.bag:hover{
+    background-image: linear-gradient(180deg, #FF136F -0.01%, #FF589B 99.99%);
+    scale: 1.1;
+}
+
+.shoes {
+    background-image: linear-gradient(170.41deg, #4289FF -10.89%, #3F07F8 92.77%);
+    transition-duration: 0.4s;
+}
+.shoes:hover{
+    background-image: linear-gradient(180deg, #3F07F8 -0.01%, #4289FF 99.99%);
+    scale: 1.1;
+}
+
+.all-categories {
+    background-color: #F4F4F4;
+    padding: 10px 0 20px;
+}
+
+#shoes {
+    margin-top: 30px;
+}
+
+#backpack {
+    margin-top: 60px !important;
+    margin-bottom: 45px;
+}
+
+small {
+    font-size: 80%;
+    font-weight: 400;
+}
+
+.logo{
+    width: 140px;
+    height: 100px;
+}
+
+.carousel-item{
+    transition: transform 1s ease, opacity .1s ease-out
+}
+
+.contact{
+    margin-left: 865px;
+    margin-top: 100px;
+}
+
+
+.nav-item a{
+    transition: 0.2s ease-in;
+}
+.nav-item a:hover{
+    color: rgb(23, 216, 81);
+    scale: 1.1;
+}
+
